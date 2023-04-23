@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)file:///C:/Users/EnviosPet/Downloads/mi%20primera%20web.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><h1 style="color:violet;">🐶Bienvenidos🐱</h1>
+
+<p></p><h4 style="color:purple;">🌟la aplicación número uno para tu peludo🌟</h4> <p></p>
+
+
+<br>
+ <br>
+ <hr>
+
+
+<style>
+body { background-color: lightBlue;
+
+
+<h1 style="color:whister;">EnviosPet2</h1>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+}
+</style>
+
+
+
+
+
+<button style="background-color:Violet;">
+<elementos> <h2 style="color:white;">VETERINARIAS</h2> </elementos>
+</button>
+&nbsp;
+&nbsp;
+<button style="background-color:violet;">
+<elementos><h2 style="color:White;">ENTRENADORES</h2></elementos>
+</button>
+<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <button style="background-color:violet;">
+<elementos><h3 style="color:white"> HOTELES Y GUARDERÍAS </h3> </elementos>
+</button>
+<br>
+<br>
+<hr>
+<section>
+<div class="container">
+<p> </p><h4 style="color:purple;"> 
+en nuestra página web podrás encontrar las veterinarias más cercanas a tu hogar<br>
+también podrás encontrar guarderías y restaurantespet para tus peluditos.<br>
+ahora ir de viaje y ir a comer no será un problema para tu peludito <br>
+también podrás encontrar entrenadores para tu Mascota.
+</h4>
+<p></p>
+</div>
+</section>
+<hr>
+<img src="file:///C:/Users/EnviosPet/Downloads/imagen/Earth.jpg">
+
+<a href="file:///C:/Users/EnviosPet/Downloads/www.google.com"> Ir a Google </a> 
+<hr>
+<ul>
+<li style="color:purple"> Veterinarias   </li>
+<li style="color:violet">hoteles-guarderias </li>
+<li style="color:purple"> restaurantes para tu peludito</li>
+<li style="color:violet"> entrenador </li>
+<li style="color:purple"> hogares y refugios </li>
+</ul>
+
+<hr>
+
+<tb style="color:green">✔ Garantía </tb>
+
+<br>
+
+<tb style="color:green">✔seguridad </tb>
+
+<br>
+
+
+<tb style="color:green">✔calidad </tb>
+
+
+
+
+
+
+
+</body></html>
