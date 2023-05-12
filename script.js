@@ -1,7 +1,6 @@
 function suma() {
-
-resultado = 5 + 6
-console.log (resultado)
+  resultado = 5 + 6;
+  console.log(resultado);
 }
 
-suma()
+suma(  )
