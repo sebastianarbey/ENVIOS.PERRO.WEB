@@ -11,15 +11,16 @@
     
    label {
     
-    color:red;}
+    color:blue;}
   
 button{margin:20px;}
 
- div{  border: 4px solid black;
+ div{  border: 0px solid black;
 color:red;
 }
 form {
-background-color:blue;
-border: 200px solid 
+background-color:white;
+border: 1px solid ;
+color: black;
 }
 
