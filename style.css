@@ -13,7 +13,11 @@
     
     color:blue;}
   
-button{margin:20px;}
+button{margin:20px;
+background-color:white;
+border: 1.5px solid;
+
+}
 
  div{  border: 0px solid black;
 color:red;
@@ -23,4 +27,10 @@ background-color:white;
 border: 1px solid ;
 color: black;
 }
+h2{color:black;
+}
+p{color:black;
+}
+
+
 
