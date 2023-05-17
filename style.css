@@ -14,8 +14,8 @@
     color:blue;}
   
 button{margin:20px;
-background-color:white;
-border: 1.5px solid;
+background-color:ghostwhite;
+border: 0px solid;
 
 }
 
@@ -26,7 +26,14 @@ form {
 background-color:white;
 border: 1px solid ;
 color: black;
+height:25px;
+width:650px;
 }
+input{height:25px;
+width:300px;
+background-color:ghostwhite;
+}
+
 h2{color:black;
 }
 p{color:black;
