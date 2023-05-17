@@ -1,12 +1,15 @@
  
-
+ 
 
 
 
   body{
-    height: 200px;
+    height: 2000px;
     background-color: white;
-    text-align: center;}
+    text-align: center;
+ 
+  margin:0px auto;
+}
     
     
    label {
