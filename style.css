@@ -8,7 +8,7 @@ html{width: 1200px;
 
 
   body{
-    height: 1200px;
+    height: 900px;
     background-color: white;
     text-align: center;
   margin:0px auto;
@@ -26,10 +26,11 @@ height:25px;
 
  div{  border: 0px solid black;
 color:red;
-margin-left:50px;
-width:1180px;
-float:left 20px;
+margin-left:px;
+width:1200px;
+float:left 200x;
 padding-left:20px; 
+
 
 
 }
