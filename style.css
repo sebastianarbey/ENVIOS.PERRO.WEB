@@ -1,13 +1,16 @@
  
- 
 
+
+html{width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 
   body{
-    height: 2000px;
+    height: 1200px;
     background-color: white;
     text-align: center;
- 
   margin:0px auto;
 }
     
@@ -44,5 +47,6 @@ h2{color:black;
 p{color:black;
 }
 
-
+img{
+}
 
