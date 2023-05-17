@@ -13,7 +13,7 @@
     
     color:blue;}
   
-button{margin:20px;
+button{margin:30px;
 background-color:ghostwhite;
 border: 0px solid;
 
@@ -24,13 +24,13 @@ color:red;
 }
 form {
 background-color:white;
-border: 1px solid ;
-color: black;
+border: 0px solid ;
+color: ghostwhite;
 height:25px;
 width:650px;
 }
 input{height:25px;
-width:300px;
+width:650px;
 background-color:ghostwhite;
 }
 
