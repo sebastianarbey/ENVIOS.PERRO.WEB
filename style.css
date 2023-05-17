@@ -26,9 +26,11 @@ height:25px;
 
  div{  border: 0px solid black;
 color:red;
-margin-left: auto;
+margin-left:50px;
 width:1180px;
-height:200px;
+float:left 20px;
+padding-left:20px; 
+
 
 }
 form {
@@ -37,6 +39,7 @@ border: 0px solid ;
 color: ghostwhite;
 height:25px;
 width:650px;
+ margin-left: 10px;
 
 }
 input{height:25px;
@@ -51,4 +54,6 @@ p{color:black;
 
 footer{ width:800;
 height:800px
+}
+
 }
