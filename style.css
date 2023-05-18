@@ -30,7 +30,7 @@ height:25px;
 color:red;
 margin-left:px;
 width:1200px;
-float:left 200x;
+float:left 200px;
 padding-left:20px; 
 margin-top:80px
 
@@ -41,12 +41,12 @@ background-color:white;
 border: 0px solid ;
 color: ghostwhite;
 height:25px;
-width:650px;
+width:580px;
  margin-left: 10px;
 
 }
 input{height:25px;
-width:650px;
+width:580px;
 background-color:ghostwhite;
 
 }
@@ -59,5 +59,12 @@ p{color:black;
 footer{ width:800;
 height:800px
 }
+
+
+logo img{width:90;
+height:50px;
+justify-content:flex-end;
+margin:1px;
+
 
 }
