@@ -67,6 +67,12 @@ justify-content:flex-end;
 margin:1px;
 }
 
-header{border:1px solid;
-height:3
+div.container{border:1px solid;
+height:200px;
+margin-bottom:20px;
+color:gray;
+img:
+}
+img.container{margin-right:20px;
+height:50px;
 }
