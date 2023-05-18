@@ -69,13 +69,14 @@ margin:1px;
 
 div.container{border:0px solid;
 height:200px;
-margin-bottom:20px;
+
 color:gray;
 
 }
-header{margin-right :1100px;
-
-
-
+article.container{margin-right :1100px;
+border: 1px solid ;
+height:300px;
+width:1200px;
 
 }
+article.img
