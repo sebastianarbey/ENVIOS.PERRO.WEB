@@ -4,7 +4,7 @@
 html{width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
- margin-height:800px;
+  margin-height:800px;
 }
 
 
@@ -79,4 +79,8 @@ height:300px;
 width:1200px;
 
 }
-article.img
+img.container{float: left;
+width:420px;
+height:210px;
+margin:40px;
+}
