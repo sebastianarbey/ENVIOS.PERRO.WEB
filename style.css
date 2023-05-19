@@ -1,7 +1,8 @@
  
 
 
-html{width: 1200px;
+html{
+width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
   margin-height:800px;
@@ -21,7 +22,9 @@ html{width: 1200px;
 button{margin:25px;
 background-color:ghostwhite;
 border: 0px solid;
-height:25px;
+height:80px;
+width:800px;
+
 
 
 }
@@ -42,13 +45,14 @@ border: 0px solid ;
 color: ghostwhite;
 height:25px;
 width:580px;
- margin-left: 150px;
+ margin-left: 200px;
 
 }
-input{height:25px;
+input{height:50px;
 width:580px;
  border-radius: 20px;
 background-color:ghostwhite;
+margin-top:8px;
 
 
 }
@@ -67,7 +71,8 @@ logo img{width:90;
 height:80px;
 margin:1px;
 margin-right: 1000px;
- margin-bottom:1000px;
+ margin-bottom:500px;
+
 
 
 
