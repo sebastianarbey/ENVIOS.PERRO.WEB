@@ -40,7 +40,7 @@ width:580px;
  border-radius: 20px;
 background-color:ghostwhite;
 margin-top:30px;
-margin-right:160px;
+margin-right:180px;
 
 
 }
@@ -55,11 +55,12 @@ height:800px
 }
 
 
-logo img{width:90;
-height:80px;
-margin:120px;
+logo img{width:80;
+height:70px;
+margin:110px;
 margin-right:1000px;
-margin-top:0px;
+margin-top:10px;
+margin-bottom:100px;
  
 
 
@@ -89,3 +90,8 @@ button{background-color:white;
 border:0px;
 }
 
+div.logos{ text-align: center;
+  margin:0px auto;
+margin-top:100px;
+
+}
