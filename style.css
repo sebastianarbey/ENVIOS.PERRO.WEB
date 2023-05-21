@@ -23,16 +23,24 @@ margin-left:px;
 width:1200px;
 float:left 200px;
 padding-left:20px; 
-margin-top:80px
+   margin-top:80px}
+
+header{width:550px;
+
+padding-left:500px; 
+margin-top:0px;
 
 
 }
-form {
+
+
+form {margin:1px;
 background-color:white;
 border: 1px solid ;
 color: ghostwhite;
 height:30px;
-margin-right:200px;
+
+margin-right:500px;
 
 }
 input{height:45px;
@@ -88,7 +96,5 @@ border:0px;
 div.logos{ text-align: center;
   margin:0px auto;
 margin-top:10px;
-
-
 
 }
