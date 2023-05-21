@@ -29,17 +29,17 @@ margin-top:80px
 }
 form {
 background-color:white;
-border: 0px solid ;
+border: 1px solid ;
 color: ghostwhite;
-height:25px;
+height:40px;
 
 
 }
-input{height:50px;
-width:580px;
+input{height:45px;
+width:500px;
  border-radius: 20px;
 background-color:ghostwhite;
-margin-top:30px;
+margin-top:40px;
 margin-right:180px;
 
 
@@ -57,10 +57,11 @@ height:800px
 
 logo img{width:80;
 height:70px;
-margin:110px;
+margin:100px;
 margin-right:1000px;
 margin-top:10px;
-margin-bottom:100px;
+margin-left: auto;
+
  
 
 
@@ -92,6 +93,7 @@ border:0px;
 
 div.logos{ text-align: center;
   margin:0px auto;
-margin-top:100px;
+margin-top:10px;
+
 
 }
