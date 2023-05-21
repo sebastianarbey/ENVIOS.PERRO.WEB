@@ -25,13 +25,11 @@ float:left 200px;
 padding-left:20px; 
    margin-top:80px}
 
-header{width:550px;
-
-padding-left:500px; 
-margin-top:0px;
 
 
-}
+ 
+
+
 
 
 form {margin:1px;
@@ -64,7 +62,8 @@ height:800px
 
 
 
-div.superior{border: 5px solid black;
+header.superior{border: 5px solid black;
+justify-content:space-between;
 height:150px;
 margin:40px;
 
@@ -94,8 +93,9 @@ button{background-color:white;
 border:0px;
 }
 
-div.logos{ text-align: center;
+div.botones{ text-align: center;
   margin:0px auto;
-margin-top:10px;
+margin-top:center;
+margin-top:right 30px;
 
 }
