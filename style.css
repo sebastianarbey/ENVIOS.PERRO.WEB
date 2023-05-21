@@ -31,8 +31,8 @@ form {
 background-color:white;
 border: 1px solid ;
 color: ghostwhite;
-height:40px;
-
+height:30px;
+margin-right:200px;
 
 }
 input{height:45px;
@@ -40,7 +40,7 @@ width:500px;
  border-radius: 20px;
 background-color:ghostwhite;
 margin-top:40px;
-margin-right:180px;
+margin-right:200px;
 
 
 }
@@ -55,16 +55,11 @@ height:800px
 }
 
 
-logo img{width:80;
-height:70px;
-margin:120px;
-margin-right:1000px;
-margin-top:10px;
-margin-left: auto;
-}
+
 div.superior{border: 5px solid black;
-height:100px;
-margin:90px;
+height:90px;
+margin:40px;
+
 }
 
 div.container{border:0px solid;
@@ -93,6 +88,7 @@ border:0px;
 div.logos{ text-align: center;
   margin:0px auto;
 margin-top:10px;
+
 
 
 }
