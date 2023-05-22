@@ -32,7 +32,7 @@ background-color:white ;
 border: 1px solid ;
 align-items:center;
 color: ghostwhite;
-height:100px;
+height:80px;
 width:900px;
 margin-right:500px;
 
@@ -60,13 +60,12 @@ height:800px
 }
 
 .logo img{
-background-color:black;
+background-color:white;
 height:65px;
 width:80px;
-margin:1px;
+margin:5px;
 padding:0px;
 margin-right:100px;
-
 margin-bottom:50px;
 }
 
@@ -74,20 +73,21 @@ margin-bottom:50px;
 header{
 display: flex;
 justify-content: space-between;
-background-color:coral;
+background-color:white;
 align-items:center;
 padding:1px;
 }
 
 
 div.logo{
-margin:1px;
-background-color:red;
+margin:5px;
+background-color:white;
 justify-content: center ;
 width:80px;
 height:100px;
 margin-bottom:13px;
 }
+
 
 
 
