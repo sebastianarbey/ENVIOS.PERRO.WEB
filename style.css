@@ -86,7 +86,7 @@ background-color:white;
 justify-content: center ;
 width:80px;
 height:100px;
-margin-bottom:13px;
+
 }
 
 div.container{border:0px solid;
@@ -112,6 +112,11 @@ border:0px;
 }
 
 header.superior{padding:50px;
+height:60px;
+
+
+}
+header.inferior{padding:50px;
 flex-direction:column;
 
 }
