@@ -32,17 +32,17 @@ background-color:white ;
 border: 1px solid ;
 color: ghostwhite;
 height:100px;
-width:1000px;
+width:900px;
 margin-right:600px;
 
 }
 input{margin:25px;
 height:45px;
-width:550px;
+width:450px;
  border-radius: 20px;
 background-color:ghostwhite;
 justify-content: center ;
-margin-right:400px;
+margin-right:250px;
 
 
 }
@@ -56,10 +56,18 @@ footer{ width:800;
 height:800px
 }
 
-
+.logo img{
+height:50px;
+}
 
  
-
+header{
+display: flex;
+justify-content: space-between;
+background-color:coral;
+align-items:center;
+padding:1px;
+}
  
 
 
