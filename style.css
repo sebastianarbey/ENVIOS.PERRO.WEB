@@ -34,7 +34,7 @@ align-items:center;
 color: ghostwhite;
 height:80px;
 width:350px;
-margin-right:500px;
+margin-right:800px;
 
 
 }
@@ -89,11 +89,12 @@ height:100px;
 margin-bottom:13px;
 }
 
-nav{margin-left:400px;
+nav{margin-left:380px;
 background-color:black;
 width:280px;
 height:100px;
-margin-bottom:250px;
+margin-bottom:400px;
+padding:0px;
 }
 
 
