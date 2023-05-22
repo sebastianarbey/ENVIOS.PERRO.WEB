@@ -30,19 +30,22 @@ padding-left:20px;
 form {margin:0px;
 background-color:white ;
 border: 1px solid ;
+align-items:center;
 color: ghostwhite;
 height:100px;
 width:900px;
 margin-right:600px;
 
+
 }
 input{margin:25px;
 height:45px;
-width:450px;
+width:400px;
+align-items:center;
  border-radius: 20px;
 background-color:ghostwhite;
 justify-content: center ;
-margin-right:250px;
+margin-right:290px;
 
 
 }
@@ -57,7 +60,12 @@ height:800px
 }
 
 .logo img{
-height:50px;
+height:60px;
+width:80px;
+margin:1px;
+margin-right:100px;
+
+margin-bottom:49px;
 }
 
  
@@ -68,7 +76,6 @@ background-color:coral;
 align-items:center;
 padding:1px;
 }
- 
 
 
 
