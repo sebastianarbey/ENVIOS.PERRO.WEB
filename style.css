@@ -112,6 +112,6 @@ border:0px;
 }
 
 header.superior{padding:50px;
- text-align: center;
+flex-direction:column;
 
 }
