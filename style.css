@@ -34,18 +34,18 @@ align-items:center;
 color: ghostwhite;
 height:100px;
 width:900px;
-margin-right:600px;
+margin-right:500px;
 
 
 }
-input{margin:25px;
+input{margin:0px;
 height:45px;
-width:400px;
+width:350px;
 align-items:center;
  border-radius: 20px;
-background-color:ghostwhite;
+background-color:white;
 justify-content: center ;
-margin-right:290px;
+margin-right:280px;
 
 
 }
@@ -60,12 +60,14 @@ height:800px
 }
 
 .logo img{
-height:60px;
+background-color:black;
+height:65px;
 width:80px;
 margin:1px;
+padding:0px;
 margin-right:100px;
 
-margin-bottom:49px;
+margin-bottom:50px;
 }
 
  
@@ -78,7 +80,14 @@ padding:1px;
 }
 
 
-
+div.logo{
+margin:1px;
+background-color:red;
+justify-content: center ;
+width:80px;
+height:100px;
+margin-bottom:13px;
+}
 
 
 
